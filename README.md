@@ -62,7 +62,7 @@ A repository which leverages OpenAI's latest Assistant APIs to create conversati
 
 ### High Level Technical Architecture
 
-![High Level Technical Design](https://ambitustemplateassets.blob.core.windows.net/assets/diagram-export-19-02-2024-19_24_08.png)
+<img src="https://ambitustemplateassets.blob.core.windows.net/assets/diagram-export-19-02-2024-19_24_08.png" width='100%' height='auto' />
 
 <br />
 
